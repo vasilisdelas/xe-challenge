@@ -1,0 +1,22 @@
+{
+  "name": "xe-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vasilisdelas/xe-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vasilisdelas/xe-challenge/issues"
+  },
+  "homepage": "https://github.com/vasilisdelas/xe-challenge#readme",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.5"
+  }
+}
