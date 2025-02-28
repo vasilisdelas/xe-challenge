@@ -46,5 +46,9 @@ mvn test
 ```
 mvn test -DsuiteXmlFile=testng.xml
 ```
+#### **Generate an HTML report**
 
+```
+mvn surefire-report:report
+```
 
